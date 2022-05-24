@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="story_image_desc">story_image</string>
+    <string name="camera_x">cameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="show_password">Tampilkan Password</string>
+    <string name="add_story">add_story</string>
+
+    <string name="username_tag">Name: %s</string>
+    <string name="description_tag">Description: %s</string>
+    <string name="logout">Logout</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="taking_photo">Taking Photo</string>
+    <string name="photo_placeholder">Photo Placeholder</string>
+    <string name="photo_description">Isikan Deskripsi…</string>
+    <string name="detail_photo">Detail Photo</string>
+    <string name="daftar">Daftar</string>
+</resources>
